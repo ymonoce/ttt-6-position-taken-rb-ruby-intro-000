@@ -2,7 +2,7 @@
 def position_taken?(board, index = "X")
 
 board[index] != " ", ""
-board[index] != ""
+
 
 
 
