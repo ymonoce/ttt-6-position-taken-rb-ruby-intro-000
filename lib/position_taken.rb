@@ -5,6 +5,8 @@ if board[index] == "X"
 
 else board[index] == "O"
 
+end
+
 
 
 end
